@@ -2,7 +2,7 @@
 
 ## Who Am I?  
 
-A tech enthusiast with a versatile background spanning programming, CRM systems, training in challenging environments, and managing operations in dynamic settings.  
+A tech enthusiast with a background spanning programming, sales, training in challenging environments, and managing operations in dynamic settings.  
 
 My journey has taken me from writing code to empowering communities and leading teams. All with a commitment to making technology work *for good.*
 
