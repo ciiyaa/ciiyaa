@@ -28,5 +28,5 @@ teams—all with a commitment to making technology work *for good.*
 ## Why I’m Here  
 
 This GitHub is more than a repository—it’s a showcase of how tech and purpose
-intersect. Whether you’re here for code, collaboration, or just curiosity, I hope 
-you’ll find something inspiring.
+intersect. Whether you’re here for code, collaboration, or just curiosity,
+I hope you’ll find something inspiring.
