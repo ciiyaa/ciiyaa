@@ -10,7 +10,7 @@ innovate, and inspire. I’m a computer science graduate and tech
 enthusiast with a background spanning programming, sales,
 training in challenging environments, and managing operations
 in dynamic settings
-all with a commitment to making technology work *for good.*
+all with a commitment to making technology work for good.
 
 ## What I Bring to the Table  
 
