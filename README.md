@@ -1,12 +1,16 @@
-# Welcome
+# Hi ♥, this is Ava || Eva
 
-## Who Am I?  
+_“That brain of mine is something more than merely
+mortal, as time will show.”_
+— Ada Lovelace
 
-A tech enthusiast with a background spanning programming, sales, training in
-challenging environments, and managing operations in dynamic settings.  
-
-My journey has taken me from writing code to empowering communities and leading
-teams—all with a commitment to making technology work *for good.*
+This is a space where _Ava_, the logical problem-solver,
+and _Eva_, the empathetic visionary, come together to create,
+innovate, and inspire. I’m a computer science graduate and tech
+enthusiast with a background spanning programming, sales,
+training in challenging environments, and managing operations
+in dynamic settings
+all with a commitment to making technology work *for good.*
 
 ## What I Bring to the Table  
 
