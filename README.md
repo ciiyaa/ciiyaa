@@ -28,9 +28,3 @@ problems and drive meaningful change.
 - Collaborating on meaningful projects that combine tech and social good.
 - Launching a humanitarian tech program to empower vulnerable communities,
   focusing on mentorship and sustainable growth.
-
-## Why I’m Here  
-
-This GitHub is more than a repository—it’s a showcase of how tech and purpose
-intersect. Whether you’re here for code, collaboration, or just curiosity,
-I hope you’ll find something inspiring.
