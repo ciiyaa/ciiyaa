@@ -1,4 +1,4 @@
-# Hi ♥, this is æva
+## Ava Abdullah
 
 _“That brain of mine is something more than merely
 mortal, as time will show.”_
