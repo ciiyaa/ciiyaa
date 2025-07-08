@@ -1,11 +1,10 @@
-## Ava Abdullah
+# Ava Abdullah
 
 _“That brain of mine is something more than merely
 mortal, as time will show.”_
 — Ada Lovelace
 
-Welcome to my space, a hub for computer science, data science, and
-technological innovation. I'm a computer science graduate with a
+I'm a computer science graduate with a
 passion for leveraging data and technology to solve complex
 problems and drive meaningful change.
 
